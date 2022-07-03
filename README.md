@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey there! 👋
+
+My name is Sholeh and I'm a computer science student with a passion and curiosity for learning, I am looking for internship opportunities to explore different fields in computer science and expand my current skillset.
+
+🎓 I'm pursuing a Computer Science Coop degree at Toronto Metropolitan University (*formerly known as Ryerson University*). 
+
+### I would be happy to connect, you could reach out to me through
+
+<a href="https://www.linkedin.com/in/sholehsepehri/" >![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:sholeh.sepehri@ryerson.ca">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 
 <!--
 **SholehSepehri/SholehSepehri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
